@@ -1,5 +1,5 @@
 # ENSO-Antarctica_data
-Data used for the publication: 
+ Figure data and snapshot of full model data used for the publication: 
 
 Huguenin, M. F., Holmes, R. M., Spence, P. and England, M. H. (2023). Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation. In review at *Geophysical Research Letters*.
 
