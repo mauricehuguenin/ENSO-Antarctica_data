@@ -1,8 +1,3 @@
-'Project': 'Subsurface warming of the West Antarctic continental shelf linked to El Niño-Southern Oscillation'
-'Author': 'Maurice F. Huguenin',
-'Created': '2023-06-15',
-'Mail': 'm.huguenin-virchaux@unsw.edu.au',
-'Funding': 'UNSW (Program code 1476), ARC ACEAS (ARC Grant No. SR200100008), ARC CLEX (ARC Grant No. CE170100023)'
 Composite_N34_index	Simulated_N34_index	Sea_ice_volume_anoms
 -0.11917656660079956	-0.015503637	2.0292358
 -0.07738626003265381	0.008656371	0.33283997
